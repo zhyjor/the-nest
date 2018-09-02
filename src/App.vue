@@ -11,6 +11,10 @@ export default {
 </script>
 
 <style>
-#app {
-}
+  html {
+    font-size: 12px;
+  }
+
+  #app {
+  }
 </style>
